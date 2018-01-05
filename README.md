@@ -1,6 +1,6 @@
 # Voxel-Veiwer
 
-Build Instructions
+Build Instructions:
 
 cmake .
 
